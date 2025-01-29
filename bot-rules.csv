@@ -3,7 +3,6 @@
 # Use Case: Study Companion
 # Domain Knowledge: Cybersecurity, Natural Language Processing, and Machin Learning. 
 #
-
 message,response
 "hello", "Hi! How can I assist you with cybersecurity, NLP, or machine learning today?"
 "hi", "Hello! Ready to dive into some exciting topics in cybersecurity, NLP, or ML?"
