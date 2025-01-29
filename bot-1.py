@@ -37,7 +37,7 @@ if __name__ == '__main__':
     # TOKEN = config['TOKEN']
     
     ## Alternative: Hard-code your TOKEN here and remote the comment:
-    TOKEN= 'MTMzMjM5MTQ1NDA3NjcwMjcyMA.GKWvKK.9wf-d6okR4yYQn3d2YXxCGwBq5Tfwe2aZ8Q0tk' 
+    TOKEN= 'insert bot token' 
 
     # Load Simples Bot Brain loading rules from a CSV
     brain = SimpleBrain(id='bot-1')
