@@ -1,4 +1,4 @@
-# COT6930_GroupWork
+# COT6930_GenAI-based Agentic System
 
 **Course Description:**
 COT 6930: GenAI Software Development Lifecycles explores the integration of Generative AI, Multi-Agent Systems, and Agentic Frameworks within the software development lifecycle. The course aims to equip students with the skills to apply advanced AI technologies to innovate and optimize software development processes. Through hands-on labs and projects, students will learn to develop AI-driven applications that enhance creativity, efficiency, and problem-solving in software systems.
