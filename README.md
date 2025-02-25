@@ -151,7 +151,7 @@ It should startup like this:
 
 At this point your Bot should be animated and you can chat with it on Discord:
 
-<img src="docs/images/screen-demobot.png" width="600">
+
 
 
 ## Extending
